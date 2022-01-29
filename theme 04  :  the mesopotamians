@@ -62,7 +62,6 @@ attribute:"title"
 
 <meta name="color:background" content="#eee"/>
 <meta name="color:container" content="#f5f5f5"/>
-<meta name="color:header" content="#000"/>
 <meta name="color:posts" content="#fff"/>
 <meta name="color:text" content="#000"/>
 <meta name="color:tags" content="#abcdef"/>
